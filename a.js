@@ -1,1 +1,3 @@
-function aaaa() {}
+function aaaa() {
+  console.log('a');
+}
